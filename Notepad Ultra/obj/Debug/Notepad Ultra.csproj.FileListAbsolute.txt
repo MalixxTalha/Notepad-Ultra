@@ -1,0 +1,10 @@
+C:\Users\MUBASHIR ALVI\OneDrive\Desktop\Talha Jameel\Notepad Ultra\Notepad Ultra\bin\Debug\Notepad Ultra.exe.config
+C:\Users\MUBASHIR ALVI\OneDrive\Desktop\Talha Jameel\Notepad Ultra\Notepad Ultra\bin\Debug\Notepad Ultra.exe
+C:\Users\MUBASHIR ALVI\OneDrive\Desktop\Talha Jameel\Notepad Ultra\Notepad Ultra\bin\Debug\Notepad Ultra.pdb
+C:\Users\MUBASHIR ALVI\OneDrive\Desktop\Talha Jameel\Notepad Ultra\Notepad Ultra\obj\Debug\Notepad Ultra.csproj.AssemblyReference.cache
+C:\Users\MUBASHIR ALVI\OneDrive\Desktop\Talha Jameel\Notepad Ultra\Notepad Ultra\obj\Debug\Notepad_Ultra.MainForm.resources
+C:\Users\MUBASHIR ALVI\OneDrive\Desktop\Talha Jameel\Notepad Ultra\Notepad Ultra\obj\Debug\Notepad_Ultra.Properties.Resources.resources
+C:\Users\MUBASHIR ALVI\OneDrive\Desktop\Talha Jameel\Notepad Ultra\Notepad Ultra\obj\Debug\Notepad Ultra.csproj.GenerateResource.cache
+C:\Users\MUBASHIR ALVI\OneDrive\Desktop\Talha Jameel\Notepad Ultra\Notepad Ultra\obj\Debug\Notepad Ultra.csproj.CoreCompileInputs.cache
+C:\Users\MUBASHIR ALVI\OneDrive\Desktop\Talha Jameel\Notepad Ultra\Notepad Ultra\obj\Debug\Notepad Ultra.exe
+C:\Users\MUBASHIR ALVI\OneDrive\Desktop\Talha Jameel\Notepad Ultra\Notepad Ultra\obj\Debug\Notepad Ultra.pdb
